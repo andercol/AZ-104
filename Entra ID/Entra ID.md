@@ -27,13 +27,13 @@ Conceitos:
 
 **Azure AD Join** - processo de adicionar uma maquina no Azure.
 
-* [[MS Entra ID - User Accounts]]
-* [[MS Entra ID - Groups]]
-* [[MS Entra ID - Unidades Administrativas (UAs)]]
-* [[Governance - Subscriptions]]
-* [[MS Entra ID - Licenciamento]]
-* [[MS Entra ID - Segurança]]
-* [[MS Entra ID - Self-Service Password Reset]]
+* [MS Entra ID - User Accounts]
+* [MS Entra ID - Groups]
+* [MS Entra ID - Unidades Administrativas (UAs)]
+* [Governance - Subscriptions]
+* [MS Entra ID - Licenciamento]
+* [MS Entra ID - Segurança]
+* [MS Entra ID - Self-Service Password Reset]
 * 
 
 #### Identidades no Entra ID
@@ -48,7 +48,7 @@ As identidades podem ser humanas ou não humanas:
 	A identidade de carga de trabalho autentica e acessa outros serviços e recursos.
 
 
->[!info] Info 
+>💡Info 
 >[Identidades de carga de trabalho - Microsoft Entra Workload ID | Microsoft Learn](https://learn.microsoft.com/pt-br/entra/workload-id/workload-identities-overview) 
 
 O Tenant do Microsoft Entra é um limite de segurança de identidade controlado por administradores.
