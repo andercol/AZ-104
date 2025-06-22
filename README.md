@@ -13,9 +13,9 @@ O objetivo é consolidar o aprendizado, revisar tópicos-chave e compartilhar o 
 * **Exemplos Práticos:** Snippets de código (PowerShell, Azure CLI) e configurações de serviços.
 * **Links Úteis:** Referências para documentação oficial, tutoriais e artigos relevantes.
 
-[Entra ID](Entra ID/Entra ID)
+[Entra ID](<Entra ID/Entra ID.md>)
 ---
 
 Sinta-se à vontade para explorar e, se tiver sugestões ou quiser contribuir, ficarei feliz em discutir!
 
-**Conecte-se comigo:** [[www.linkedin.com/in/anderson-colin | Anderson Colin]] , se desejar
+**Conecte-se comigo:** [Anderson Colin](www.linkedin.com/in/anderson-colin) , se desejar

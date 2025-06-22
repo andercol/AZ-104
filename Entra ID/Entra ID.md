@@ -27,7 +27,7 @@ Conceitos:
 
 **Azure AD Join** - processo de adicionar uma maquina no Azure.
 
-* [MS Entra ID - User Accounts]
+* [MS Entra ID - User Accounts](<MS Entra ID - User Accounts.md>)
 * [MS Entra ID - Groups]
 * [MS Entra ID - Unidades Administrativas (UAs)]
 * [Governance - Subscriptions]
@@ -49,7 +49,7 @@ As identidades podem ser humanas ou não humanas:
 
 
 >💡Info 
->[Identidades de carga de trabalho - Microsoft Entra Workload ID | Microsoft Learn](https://learn.microsoft.com/pt-br/entra/workload-id/workload-identities-overview) 
+>[Identidades de carga de trabalho - Microsoft Learn](https://learn.microsoft.com/pt-br/entra/workload-id/workload-identities-overview) 
 
 O Tenant do Microsoft Entra é um limite de segurança de identidade controlado por administradores.
 A administração de assinaturas, grupos de gerenciamento e grupos de recursos podem ser delegados para controle administrativo de recursos do Azure, através de configurações de políticas e definições em todo o locatário.
@@ -90,7 +90,7 @@ Em um nível alto, as funções do Azure controlam permissões para gerenciar re
 >- Administrador da Conta
 >- Administrador de Serviços (equivalente a função Proprietário).
 
-#### [[Governance - Subscriptions]]
+#### [Governance - Subscriptions]
 
 As assinaturas do Azure é utilizada para estabelecer um relacionamento de cobrança. Uma conta do Azure é uma identidade de usuário, uma ou mais assinaturas e um conjunto de recursos associados.
 Assinaturas ajudam a organizar o acesso aos recursos do Azure e controlar como são cobrados e pagos e reportar o uso.
