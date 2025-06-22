@@ -14,6 +14,9 @@ O objetivo é consolidar o aprendizado, revisar tópicos-chave e compartilhar o 
 * **Links Úteis:** Referências para documentação oficial, tutoriais e artigos relevantes.
 
 [Entra ID](<Entra ID/Entra ID.md>)
+[Governança e Compliance](<Governanca/governanca.md>)
+
+
 ---
 
 Sinta-se à vontade para explorar e, se tiver sugestões ou quiser contribuir, ficarei feliz em discutir!
