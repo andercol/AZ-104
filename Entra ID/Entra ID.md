@@ -27,14 +27,13 @@ Conceitos:
 
 **Azure AD Join** - processo de adicionar uma maquina no Azure.
 
-* [MS Entra ID - User Accounts](<MS Entra ID - User Accounts.md>)
-* [MS Entra ID - Groups]
-* [MS Entra ID - Unidades Administrativas (UAs)]
-* [Governance - Subscriptions]
-* [MS Entra ID - Licenciamento]
-* [MS Entra ID - Segurança]
-* [MS Entra ID - Self-Service Password Reset]
-* 
+* [MS Entra ID - User Accounts](<User Accounts.md>)
+* [MS Entra ID - Groups](<Groups.md>)
+* [MS Entra ID - Unidades Administrativas (UAs)](<Unidades Administrativas.md>)
+* [MS Entra ID - Subscriptions](<Subscription.md>)
+* [MS Entra ID - Licenciamento](<Licenciamento.md>)
+* [MS Entra ID - Self-Service Password Reset](<SSPR.md>)
+
 
 #### Identidades no Entra ID
 
