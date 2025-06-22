@@ -13,8 +13,8 @@ O objetivo é consolidar o aprendizado, revisar tópicos-chave e compartilhar o 
 * **Exemplos Práticos:** Snippets de código (PowerShell, Azure CLI) e configurações de serviços.
 * **Links Úteis:** Referências para documentação oficial, tutoriais e artigos relevantes.
 
-[Entra ID](<Entra ID/Entra ID.md>)
-[Governança e Compliance](<Governanca/governanca.md>)
+- [Entra ID](<Entra ID/Entra ID.md>)
+- [Governança e Compliance](<Governanca/governanca.md>)
 
 
 ---
