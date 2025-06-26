@@ -9,7 +9,7 @@ Neste laboratório prático, você irá aprender a configurar e gerenciar o moni
 
 ### Diagrama da solução implementada
 
-![Diagrama](images\MonitoramentoAzure.png)
+![Diagrama](images/MonitoramentoAzure.png)
 
 
 ### Etapas da implementação;
@@ -32,42 +32,42 @@ Neste laboratório prático, você irá aprender a configurar e gerenciar o moni
 
 **Resource Group Configurado:**
 
-![Resource Group](images\ResourceGroup.png)
+![Resource Group](images/ResourceGroup.png)
 
 **VNet e Subnet Configurada**
 
-![VNet e Subnet](images\VNETeSubnet.png)
+![VNet e Subnet](images/VNETeSubnet.png)
 
 **NSG Configurado**
 
-![NSG](images\NSG.png)
+![NSG](images/NSG.png)
 
 **VM Configurada:**
 
-![VM Configurada](images\VMConfigurada.png)
+![VM Configurada](images/VMConfigurada.png)
 
 
 **Habilitando o Monitoramento**
 
-![Habilitando o Monitoramento](images\HabilitarMonitoramento.png)
+![Habilitando o Monitoramento](images/HabilitarMonitoramento.png)
 
 
 **Configurar o Alert Rule**
 
-![Configurando Alert Rule](images\ConfigAlert.png)
+![Configurando Alert Rule](images/ConfigAlert.png)
 
 **Configurar Action**
 
-![Configurando Action](images\Action.png)
+![Configurando Action](images/Action.png)
 
 **Excluir a VM**
 
-![Excluir a VM](images\DeleteVM.png)
+![Excluir a VM](images/DeleteVM.png)
 
 **Confirmar Alerta**
 
-![Confirmar Alerta](images\Alerts.png)
+![Confirmar Alerta](images/Alerts.png)
 
 **Confirmar alerta e e-mail**
 
-![Confirmar alerta e e-mail](images\emailAlert.png)
+![Confirmar alerta e e-mail](images/emailAlert.png)

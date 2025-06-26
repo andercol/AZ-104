@@ -29,7 +29,7 @@ Considerações sobre o uso de subscriptions:
 - Considere uma subscripton dedicada de serviços compartilhados: Exemplos recursos de rede, ExpressRoute, WAN, VPN, etc.
 - Cada subscripton pode ser associada a um Entra ID:
 
-![Subscription](..\images\AssinaturasDoAzure02.png)
+![Subscription](../images/AssinaturasDoAzure02.png)
 
 #### Como obter uma Subscription do Azure
 
